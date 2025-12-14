@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+python-dotenv
+
+# LLM
+openai
+langchain
+
+# Resume parsing
+pypdf
+python-docx
+
+# NLP
+spacy
+scikit-learn
+numpy
+
+# Utilities
+tqdm

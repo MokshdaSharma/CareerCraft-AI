@@ -1,0 +1,8 @@
+env/
+.env
+.streamlit/
+sample_data/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd

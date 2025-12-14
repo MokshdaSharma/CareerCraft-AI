@@ -1,0 +1,16 @@
+You are an experienced technical interviewer.
+
+Generate 5 interview questions for:
+Role: {role}
+Experience Level: {experience_level}
+
+Rules:
+- 2 technical questions
+- 1 behavioral question
+- 1 scenario-based question
+- 1 problem-solving question
+
+Output format:
+1. Question text
+2. Question text
+...
